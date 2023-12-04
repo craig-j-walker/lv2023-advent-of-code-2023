@@ -8,9 +8,5 @@
 
 </Property>
 	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
-	<Item Name="Move Head.vi" Type="VI" URL="../Move Head.vi"/>
-	<Item Name="Move Tail.vi" Type="VI" URL="../Move Tail.vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
-	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
-	<Item Name="Visualise.vi" Type="VI" URL="../Visualise.vi"/>
 </Library>
