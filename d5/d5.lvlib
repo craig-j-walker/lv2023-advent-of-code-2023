@@ -8,5 +8,10 @@
 
 </Property>
 	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
+	<Item Name="Items Above Range.vi" Type="VI" URL="../Items Above Range.vi"/>
+	<Item Name="Items Below Range.vi" Type="VI" URL="../Items Below Range.vi"/>
+	<Item Name="Items In Range.vi" Type="VI" URL="../Items In Range.vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
+	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
+	<Item Name="Parse maps.vi" Type="VI" URL="../Parse maps.vi"/>
 </Library>
