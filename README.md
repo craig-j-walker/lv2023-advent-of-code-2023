@@ -1,2 +1,2 @@
-# lv2021-advent-of-code-2022
+# lv2023-advent-of-code-2023
 This years attempt at the advent of code
