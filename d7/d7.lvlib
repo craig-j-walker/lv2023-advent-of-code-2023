@@ -10,4 +10,7 @@
 </Property>
 	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
+	<Item Name="Get Hand Info.vi" Type="VI" URL="../Get Hand Info.vi"/>
+	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
+	<Item Name="Get Hand Info p2.vi" Type="VI" URL="../Get Hand Info p2.vi"/>
 </Library>
