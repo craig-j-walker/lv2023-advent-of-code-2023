@@ -8,7 +8,6 @@
 
 </Property>
 	<Item Name="GCF(U64).vi" Type="VI" URL="../GCF(U64).vi"/>
-	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="LCM(U64).vi" Type="VI" URL="../LCM(U64).vi"/>
 	<Item Name="LCM[].vi" Type="VI" URL="../LCM[].vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
