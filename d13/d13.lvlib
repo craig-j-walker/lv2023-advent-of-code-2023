@@ -9,7 +9,6 @@
 </Property>
 	<Item Name="Check for Mirrors.vi" Type="VI" URL="../Check for Mirrors.vi"/>
 	<Item Name="Horizontal Mirror.vi" Type="VI" URL="../Horizontal Mirror.vi"/>
-	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
 	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
 	<Item Name="Vertical Mirror.vi" Type="VI" URL="../Vertical Mirror.vi"/>

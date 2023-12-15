@@ -8,7 +8,6 @@
 
 </Property>
 	<Item Name="East.vi" Type="VI" URL="../East.vi"/>
-	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="North.vi" Type="VI" URL="../North.vi"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
 	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
