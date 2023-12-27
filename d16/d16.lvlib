@@ -8,7 +8,6 @@
 
 </Property>
 	<Item Name="Core.vi" Type="VI" URL="../Core.vi"/>
-	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
 	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
 </Library>

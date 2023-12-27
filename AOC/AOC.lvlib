@@ -16,7 +16,16 @@
 		<Item Name="space.vi" Type="VI" URL="../chars/space.vi"/>
 		<Item Name="up arrow.vi" Type="VI" URL="../chars/up arrow.vi"/>
 	</Item>
+	<Item Name="dirs" Type="Folder">
+		<Item Name="DOWN.vi" Type="VI" URL="../../d17/DOWN.vi"/>
+		<Item Name="LEFT.vi" Type="VI" URL="../../d17/LEFT.vi"/>
+		<Item Name="RIGHT.vi" Type="VI" URL="../../d17/RIGHT.vi"/>
+		<Item Name="UDLR (ASCII Arrows).vi" Type="VI" URL="../UDLR (ASCII Arrows).vi"/>
+		<Item Name="UDLR (Vectors).vi" Type="VI" URL="../UDLR (Vectors).vi"/>
+		<Item Name="UP.vi" Type="VI" URL="../../d17/UP.vi"/>
+	</Item>
 	<Item Name="Day Template.lvlib" Type="Library" URL="../Day Template/Day Template.lvlib"/>
 	<Item Name="Get Input.vi" Type="VI" URL="../Get Input.vi"/>
 	<Item Name="Input Path.vi" Type="VI" URL="../Input Path.vi"/>
+	<Item Name="UDLR (Arrows).vi" Type="VI" URL="../UDLR (Arrows).vi"/>
 </Library>
